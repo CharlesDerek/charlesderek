@@ -19,4 +19,4 @@
 
 <p>My Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,css,docker,git,github,githubactions,gitlab,html,js,jenkins,jest,linux,md,nginx,nodejs,postgres,postman,py,raspberrypi,regex,ts,vim,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,bash,css,docker,git,github,githubactions,gitlab,html,js,jenkins,jest,linux,md,nginx,nodejs,postgres,postman,powershell,py,raspberrypi,regex,ts,vim,vscode,vue)](https://skillicons.dev)
