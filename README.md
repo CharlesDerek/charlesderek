@@ -1,6 +1,10 @@
 # CharlesDerek
 
 <p align="left">
+	<img alt="Waving Hi" height="150px" style="border-radius:7px;border:1px solid cyan" src="assets/hi.webp" />
+</p>
+
+<p align="left">
   <a href="https://github.com/CharlesDerek">
     <img height="20" src="https://img.shields.io/github/followers/CharlesDerek?label=follow&logo=github&style=flat" />
   </a>
