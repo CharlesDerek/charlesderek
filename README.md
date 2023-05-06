@@ -1,7 +1,7 @@
 # CharlesDerek
 
 <p align="left">
-	<img alt="Waving Hi" height="150px" style="border-radius:7px;border:1px solid cyan" src="assets/hi.webp" />
+	<img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="assets/hi.webp" />
 </p>
 
 <p align="left">
