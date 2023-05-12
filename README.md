@@ -4,6 +4,8 @@
 	<img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="assets/hi.webp" />
 </p>
 
+[![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.webplicity.co)
+
 <p align="left">
   <a href="https://github.com/CharlesDerek">
     <img height="20" src="https://img.shields.io/github/followers/CharlesDerek?label=follow&logo=github&style=flat" />
