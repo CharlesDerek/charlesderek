@@ -22,7 +22,7 @@
 
 <p>My Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ansible,aws,dynamodb,gcp,azure,docker,kubernetes,terraform,golang,react,nextjs,nginx,nodejs,r,androidstudio,kotlin,java,idea,dart,flutter,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,babel,js,electron,fastapi,graphql,redis,python,jenkins,jest,linux,md,mysql,postgres,mongodb,postman,powershell,ruby,rails,raspberrypi,regex,selenium,ts,vercel,vim,vscode,vue,unity,unreal,cpp,cs,blender,ipfs,webpack,tensorflow,threejs,wasm,solidity,solidjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ansible,aws,dynamodb,gcp,azure,docker,kubernetes,golang,react,nextjs,nginx,nodejs,r,androidstudio,kotlin,java,idea,dart,flutter,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,babel,js,electron,fastapi,graphql,redis,python,jenkins,jest,linux,md,mysql,postgres,mongodb,postman,powershell,ruby,rails,raspberrypi,regex,selenium,ts,vercel,vim,vscode,vue,unity,unreal,cpp,cs,blender,ipfs,webpack,tensorflow,threejs,wasm,solidity,solidjs)](https://skillicons.dev)
 
 <br>
 
