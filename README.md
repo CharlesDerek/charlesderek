@@ -22,11 +22,11 @@
 
 <p>Top Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,react,nginx,nodejs,python,java,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,react,js,nginx,nodejs,python,java,threejs)](https://skillicons.dev)
 
 <p>Other Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,mongodb,dynamodb,azure,cloudflare,jenkins,redux,nextjs,r,flask,django,androidstudio,spring,maven,gradle,kotlin,idea,dart,flutter,rust,scala,php,laravel,c,cs,cpp,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,bootstrap,dotnet,md,sass,babel,coffeescript,redux,codepen,cmake,nextjs,netlify,js,express,jquery,electron,gulp,fastapi,graphql,redis,jenkins,jest,fediverse,openshift,md,sqlite,postgres,firebase,postman,powershell,,raspberrypi,arduino,regex,selenium,cassandra,ts,vercel,vim,vscode,vue,unity,unreal,ipfs,webpack,tensorflow,wasm,solidity,solidjs,webflow,pug,atom,ps,blender,autocad,herokufigma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,mysql,mongodb,dynamodb,azure,cloudflare,jenkins,redux,nextjs,r,flask,django,androidstudio,spring,maven,gradle,kotlin,idea,dart,flutter,rust,scala,php,laravel,c,cs,cpp,bash,css,fastapi,firebase,git,github,githubactions,gitlab,html,bootstrap,dotnet,md,sass,babel,coffeescript,redux,codepen,cmake,nextjs,netlify,express,jquery,electron,gulp,fastapi,graphql,redis,jenkins,jest,fediverse,openshift,md,sqlite,postgres,firebase,postman,powershell,raspberrypi,arduino,regex,selenium,cassandra,ts,vercel,vim,vscode,vue,unity,unreal,ipfs,webpack,tensorflow,wasm,solidity,solidjs,webflow,pug,atom,ps,blender,autocad,herokufigma)](https://skillicons.dev)
 
 <br>
 
