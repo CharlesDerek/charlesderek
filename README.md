@@ -22,7 +22,7 @@
 
 <p>Top Skills</p>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,react,js,threejs,nodejs,python,java,cpp,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,rust,react,js,threejs,nodejs,python,java,cpp)](https://skillicons.dev)
 
 <p>Other Skills</p>
 
