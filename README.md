@@ -6,15 +6,8 @@
   <p>
     <img alt="Waving Hi" height="150px" style="border-radius:5%;border:1px solid cyan" src="assets/hi.webp" />
   </p>
-
   <h2>About Me 🚀</h2>
-
-  
-
   <p>I'm Charles, a tech enthusiast at the crossroads of VR, AI, and platform development. I’m driven by creating immersive experiences and ensuring secure, scalable digital environments.</p>
-
-  
-
   <h3>Passions & Focus:</h3>
   <p>
     <img alt="Webplicity VR Snippet" width="75%" style="border-radius:5%;display:block;margin:auto;border:1px solid cyan" src="assets/9r4749837902749.webp" />
@@ -23,14 +16,10 @@
     <li><strong>VR & AI</strong>: Crafting transformative solutions by blending virtual reality with artificial intelligence.</li>
     <li><strong>Platform Development</strong>: Building efficient, scalable systems with a focus on cloud and data center security.</li>
   </ul>
-
   <h3>Collaboration & Innovation:</h3>
   <p>I’m eager to connect with others who share my grit, work ethic, and passion for innovation.</p>
   <p>Check out my projects and let’s spark something amazing together.</p>
-
-  
   <br>
-
 
   [![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Webplicity/transferable-context-aware-vr)
 
@@ -42,14 +31,11 @@
       <img height="20" src="https://img.shields.io/twitter/follow/CharlesDerek?label=LinkedIn&color=blue&style=flat" />
     </a>
   </p>
-
   <br>
-
   <p>
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDerek&layout=compact&show_icons=true&theme=dark" />
     <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=CharlesDerek&theme=dark&show_icons=ture" /> -->
   </p>
-
   <p>Top Skills</p>
 
   [![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,rust,cpp,arduino,react,js,threejs,nodejs,python,java)](https://skillicons.dev)
@@ -60,9 +46,7 @@
 
   <br>
 
-
   [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/charlesderek)
-
 
 </div>
 
