@@ -9,9 +9,16 @@
 
   <h2>About Me 🚀</h2>
 
-  <p>Hi, I'm Charles, a tech enthusiast at the crossroads of VR, AI, and platform development. I’m driven by creating immersive experiences and ensuring secure, scalable digital environments.</p>
+  
+
+  <p>I'm Charles, a tech enthusiast at the crossroads of VR, AI, and platform development. I’m driven by creating immersive experiences and ensuring secure, scalable digital environments.</p>
+
+  
 
   <h3>Passions & Focus:</h3>
+  <p>
+    <img alt="Webplicity VR Snippet" width="75%" style="border-radius:5%;display:block;margin:auto;border:1px solid cyan" src="assets/9r4749837902749.webp" />
+  </p>
   <ul style="list-style-position: inside; padding: 0; margin: 0 auto; display: inline-block; text-align: left;">
     <li><strong>VR & AI</strong>: Crafting transformative solutions by blending virtual reality with artificial intelligence.</li>
     <li><strong>Platform Development</strong>: Building efficient, scalable systems with a focus on cloud and data center security.</li>
@@ -21,15 +28,13 @@
   <p>I’m eager to connect with others who share my grit, work ethic, and passion for innovation.</p>
   <p>Check out my projects and let’s spark something amazing together.</p>
 
-  <p align="center">
-    <img alt="Webplicity VR Snippet" width="75%" style="border-radius:5%;display:block;margin:auto;border:1px solid cyan" src="assets/9r4749837902749.webp" />
-  </p>
+  
   <br>
 
 
   [![Awesomess](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Webplicity/transferable-context-aware-vr)
 
-  <p align="center">
+  <p>
     <a href="https://github.com/CharlesDerek">
       <img height="20" src="https://img.shields.io/github/followers/CharlesDerek?label=follow&logo=github&style=flat" />
     </a>
@@ -40,7 +45,7 @@
 
   <br>
 
-  <p align="center">
+  <p>
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlesDerek&layout=compact&show_icons=true&theme=dark" />
     <!-- <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=CharlesDerek&theme=dark&show_icons=ture" /> -->
   </p>
