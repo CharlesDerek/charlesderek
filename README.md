@@ -38,7 +38,7 @@
   </p>
   <p>Top Skills</p>
 
-  [![My Skills](https://skillicons.dev/icons?i=linux,ansible,aws,gcp,docker,kubernetes,golang,rust,cpp,arduino,react,js,threejs,nodejs,python,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,rust,python,docker,kubernetes,golang,cpp,arduino,react,js,threejs,nodejs,ansible,aws,gcp,java)](https://skillicons.dev)
 
   <p>Other Skills</p>
 
